@@ -16,10 +16,10 @@ I build native iOS applications using Swift and SwiftUI.
 ### 📂 Current Projects
 
 - 🎮 Tetris 2.0
-- 🚚 Truck Game
-- 🔤 Uzbek Alphabet
-- 🔧 Usta Platform
 
-### 📫 Contact
+- 🔤 Uzbek Alphabet
+
+
++998 95 374 10 70 📫 Contact
 
 - GitHub: @alimovmotoloq-create
